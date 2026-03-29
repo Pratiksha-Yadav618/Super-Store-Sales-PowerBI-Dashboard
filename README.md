@@ -1,4 +1,4 @@
-# Store Sales Power BI Dashboard
+# Super Store Sales Power BI Dashboard
 
 ## Overview
 An interactive sales dashboard built in Power BI using 
