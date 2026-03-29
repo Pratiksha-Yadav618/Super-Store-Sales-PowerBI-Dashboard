@@ -29,4 +29,4 @@ Rows: 9,800 | Columns: 18
 - Sales YoY Growth = (current - previous) / previous
 
 ## Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Sales-Dashboard-Preview.png)
